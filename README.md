@@ -40,7 +40,7 @@ The project evaluates the impact of Wavecon Telecom's **5G launch** on revenue, 
 
 ## Project Deliverables
 
-- 🎥 Narrated Presentation (MP4)
+- 🎥 Narrated Presentation (MP4) (LinkedIn URL) : https://www.linkedin.com/posts/ankush-patil-56b285374_codebasicsvirtualinternship-dataanalytics-ugcPost-7483543325870997504-nZSD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFyWxOMBYcdviUHrIUf9HK0dHAvVH_xtehw
 - 📄 Presentation Slides (PDF)
 
 ---
